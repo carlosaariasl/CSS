@@ -1,0 +1,14 @@
+body {
+	background:grey;
+}
+
+div{
+	background: #ff8000;
+	width:50%;
+	height:100%;
+	padding:20px;
+	margin:100px;
+	border: 10px solid #000000;
+	display: block;
+	
+}
